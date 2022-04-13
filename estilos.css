@@ -1,0 +1,126 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+}
+
+#contenedor {
+    width: 1500px;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    overflow: hidden;
+}
+
+header {
+    width: 1350px;
+    height: 130px;
+    background: linear-gradient(90deg, #EA1313 0%, rgb(75, 218, 99) 100%);
+    float: right;
+}
+
+header h1 {
+    text-align: center;
+    line-height: 150px;
+}
+
+#parte-1 {
+    width: 1150px;
+    height: 100px;
+    background: rgb(199, 179, 117);
+    margin-top: 10px;
+    margin-right: 10px;
+    float: left;
+}
+
+#parte-1 h2 {
+    text-align: center;
+    line-height: 100px;
+}
+
+#parte-2 {
+    width: 340px;
+    height: 100px;
+    background: rgb(75, 2, 2);
+    margin-top: 10px;
+    float: left;
+}
+
+#parte-2 h2 {
+    text-align: center;
+    line-height: 100px;
+}
+
+#Contenido {
+    width: 1150px;
+    height: 500px;
+    float: left;
+    background: rgb(204, 148, 95);
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+#Contenido h2 {
+    font-size: 40px;
+    text-align: center;
+    line-height: 500px;
+}
+
+#Busqueda {
+    width: 340px;
+    height: 100px;
+    background: rgb(255, 0, 0);
+    margin-top: 10px;
+    float: right;
+}
+
+#Busqueda h2 {
+    font-size: 20px;
+    text-align: center;
+    line-height: 150px;
+}
+
+#Noticias {
+    width: 340px;
+    height: 190px;
+    background: rgb(35, 214, 104);
+    margin-top: 10px;
+    float: right;
+}
+
+#Noticias h2 {
+    font-size: 20px;
+    text-align: center;
+    line-height: 150px;
+}
+
+#Eventos {
+    width: 340px;
+    height: 190px;
+    background: rgb(255, 46, 168);
+    margin-top: 10px;
+    float: right;
+}
+
+#Eventos h2 {
+    font-size: 20px;
+    text-align: center;
+    line-height: 150px;
+}
+
+footer {
+    background: rgb(9, 255, 243);
+    clear: both;
+}
+
+footer h2 {
+    font-size: 40px;
+    text-align: center;
+    padding: 20px;
+    font-style: italic;
+}
