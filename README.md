@@ -1,2 +1,2 @@
 # Prototi-po-web-
-EL CONFIABLE
+EL CONFIABLE crean una carpeta de css-img-y su doc de HTML
